@@ -25,7 +25,7 @@
 **Features:**
 <span>Responsive</span> -
 <span>EN-FR</span> - 
-<span>appointments Booking</span> -
+<span>Custom Booking Widget</span> -
 <span>PWA</span> - 
 <span>Dark Mode</span>
 </div>
@@ -76,9 +76,9 @@ see all process on [Nicolas Henrot Website](https://www.nicolashenrot.com/cath-s
 Once the concept is born, I had to choice tools to make the website and the plugin alive.
 I had already some experiences of building things with JS framework like VueJs or ReactJs but i needed a way to build good SEO and loading perfomance.
 
-After some research, I decide to apply the JAM stack architecture with the use of **Gatsby** as site generator and **netlify** as serverless provider.
+After some research, I decide to apply the [Jamstack](https://jamstack.org/) architecture with the use of **Gatsby** as site generator and **netlify** as serverless provider.
 
-JAM stack gives to the front-end developer some Super Powers.
+Jamstack gives to the front-end developer some Super Powers.
 
 - All the backend is managed by netlify but still allow me to communicate with server via netlify lambda functions. 
 - allow static Website to use dynamic data via some external api
@@ -179,3 +179,6 @@ I worked with the plugin **gatsby-theme-docz** to manage the design-system. Docz
 
 You can check our design system (WIP) here. We decide to build it with an [**atomic**](https://atomicdesign.bradfrost.com/) approach
 
+# Animations
+
+Most of the animations are made with the help of [react-spring]().
