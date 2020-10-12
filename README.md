@@ -63,7 +63,7 @@ see all process on [Nicolas Henrot Website](https://www.nicolashenrot.com/cath-s
 Once the concept is born, I had to choice tools to make the website and the plugin alive.
 I had already some experiences of building things with JS framework like VueJs or ReactJs but i needed a way to build good SEO and loading perfomance.
 
-After some research, I decide to apply the JAM stack architecture approach with the use of **Gatsby** as site generator and **netlify** as headless CMS.
+After some research, I decide to apply the JAM stack architecture with the use of **Gatsby** as site generator and **netlify** as headless CMS.
 
 The benefits of this stack are :
 
@@ -73,13 +73,15 @@ The benefits of this stack are :
 - better developper experience
 - scalability
 
-# Welcome to the jungle
+# What did I learn?
 
-When i start the project i was coding from 2 years. I learned a lot very quickly and this project should reflect all abilities of my junior experience as a full stack JS developer. I still learn a lot during this journey. Here is a non exhaustiv list of questions who gives me some headache :)
+When i start the project i was coding from 2 years. This project should reflect all abilities of my junior experience as a full stack JS developer. I still learn a lot during this journey. Here is a non exhaustiv list of questions who gives me some headaches :)
 
 - how to build a plugin with gatsby?
 
 I struggle some times on the correct approach of building a gatsby-theme in the good way. Gatsby is in my opinion a wonderful tool but you need some time to really understand all his features. Json Machin was my favourite youtube channel during all the project ^^
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Z4p-qjnKCQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - what is the correct way to build a site multilang?
 
