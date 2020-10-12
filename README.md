@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[live demo]()
+[live demo](https://site-catherine.netlify.app)
 
 _NB: The demo is a fork of the real project. Feel free to use the plugin to book a fake appointment_
 
